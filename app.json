@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "rn-instagram-mini",
+    "name": "Instagram mini",
     "slug": "rn-instagram-mini",
+    "platforms": ["ios", "android"], 
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
